@@ -7,7 +7,6 @@
       "image": "https://example.com/oats.jpg",
       "bereidingswijze": 
 "
-
 Erg lekker en eenvoudig te bereiden traditioneel Italiaans recept.
       
 Voor dit recept is het van belang dat we, vanaf het moment dat de pasta van het vuur gaat, snel te werk gaan. 
@@ -44,10 +43,11 @@ Er moet voldoende restwarmte in de pan zitten om het geheel smeuig te krijgen.
 4. Serveer met wat :armezaanse kaas;
 ",
       "ingredients": [
-        { "food": "Penne", "amount": 160, "unit": "g" },
-        { "food": "Kipfilet", "amount": 250, "unit": "g" },
-        { "food": "Pesto", "amount": 4, "unit": "portion", "portionLabel": "el", "portionQty": 15, "portionUnit": "g" },
-        { "food": "Spinazie", "amount": 200, "unit": "g" }
+        { "food": "Witte pasta", "amount": 180, "unit": "g" },
+        { "food": "Kipfilet", "amount": 280, "unit": "g" },
+        { "food": "Groene pesto", "amount": 4, "unit": "portion", "portionLabel": "Eetlepel", "portionQty": 20, "portionUnit": "g" },
+        { "food": "Parmezaanse kaas", "amount": 50, "unit": "g" },
+        { "food": "Zwarte peper", "amount": 5, "unit": "g" }
       ]
     }
   ]
