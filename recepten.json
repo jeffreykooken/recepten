@@ -5,19 +5,7 @@
       "naam": "Italiaanse pasta carbonara",
       "servings": 4,
       "image": "https://raw.githubusercontent.com/jeffreykooken/recepten/refs/heads/main/Italiaanse_pasta_carbonara.jpg",
-      "bereidingswijze":"Erg lekker en eenvoudig te bereiden traditioneel Italiaans recept.
-      
-Voor dit recept is het van belang dat we, vanaf het moment dat de pasta van het vuur gaat, snel te werk gaan. 
-Er moet voldoende restwarmte in de pan zitten om het geheel smeuig te krijgen.
-      
-1. Bak de pancetta kort op hoog vuur;
-2. Kook de pasta al dente volgens de aanwijzigingen op de verpakking;
-3. Klop de eieren en het eigeel los in een kom en voeg de kaas en wat zwarte peper toe;
-4. Giet de pasta af en bewaar wat kookvocht;
-5. Meng de pancetta met de afgegoten pesto;
-6. Zorg dat de pasta niet op het vuur staat, voeg het ei-kaasmengsel toe en roer goed door;
-7. Voeg al roerende een klein beetje kookvocht toe zodat het geheel romig wordt
-8. Serveer met wat peper;
+      "bereidingswijze":"Erg lekker en eenvoudig te bereiden traditioneel Italiaans recept. Voor dit recept is het van belang dat we, vanaf het moment dat de pasta van het vuur gaat, snel te werk gaan. Er moet voldoende restwarmte in de pan zitten om het geheel smeuig te krijgen.\n1. Bak de pancetta kort op hoog vuur.\n2. Kook de pasta al dente volgens de aanwijzingen op de verpakking.\n3. Klop de eieren en het eigeel los in een kom en voeg de kaas en wat zwarte peper toe.\n4. Giet de pasta af en bewaar wat kookvocht.\n5. Meng de pancetta met de afgegoten pasta.\n6. Zorg dat de pasta niet op het vuur staat, voeg het ei-kaasmengsel toe en roer goed door.\n7. Voeg al roerende een klein beetje kookvocht toe zodat het geheel romig wordt.\n8. Serveer met wat peper.;
 ",
       
       "ingredients": [
@@ -35,12 +23,7 @@ Er moet voldoende restwarmte in de pan zitten om het geheel smeuig te krijgen.
       "naam": "Kip-pasta pesto",
       "servings": 2,
       "image": "https://raw.githubusercontent.com/jeffreykooken/recepten/refs/heads/main/Kip-pasta_pesto.jpg",
-      "bereidingswijze": "
-1. Snijd de kipfilet in blokjes, bak gaar in olijfolie;
-2. Kook de pasta al dente volgens de aanwijzigingen op de verpakking;
-3. Giet de pasta af en voeg de kipfilet en pesto toe en roer goed door;
-4. Serveer met wat :armezaanse kaas;
-",
+      "bereidingswijze": "1. Snijd de kipfilet in blokjes en bak gaar in olijfolie.\n2. Kook de pasta al dente volgens de aanwijzingen op de verpakking.\n3. Giet de pasta af en voeg de kipfilet en pesto toe; roer goed door.\n4. Serveer met Parmezaanse kaas.",
       "ingredients": [
         { "food": "Witte pasta", "amount": 180, "unit": "g" },
         { "food": "Kipfilet", "amount": 280, "unit": "g" },
