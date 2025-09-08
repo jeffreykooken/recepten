@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "recipes": [
+    {
+      "naam": "Italiaanse pasta carbonara",
+      "servings": 4,
+      "image": "https://example.com/oats.jpg",
+      "bereidingswijze": 
+"
+
+Erg lekker en eenvoudig te bereiden traditioneel Italiaans recept.
+      
+Voor dit recept is het van belang dat we, vanaf het moment dat de pasta van het vuur gaat, snel te werk gaan. 
+Er moet voldoende restwarmte in de pan zitten om het geheel smeuig te krijgen.
+      
+1. Bak de pancetta kort op hoog vuur;
+2. Kook de pasta al dente volgens de aanwijzigingen op de verpakking;
+3. Klop de eieren en het eigeel los in een kom en voeg de kaas en wat zwarte peper toe;
+4. Giet de pasta af en bewaar wat kookvocht;
+5. Meng de pancetta met de afgegoten pesto;
+6. Zorg dat de pasta niet op het vuur staat, voeg het ei-kaasmengsel toe en roer goed door;
+7. Voeg al roerende een klein beetje kookvocht toe zodat het geheel romig wordt
+8. Serveer met wat peper;
+",
+      
+      "ingredients": [
+        { "food": "Witte pasta", "amount": 350, "unit": "g" },
+        { "food": "Eieren", "amount": 3, "unit": "portion", "portionLabel": "Ei (middel)", "portionQty": 60, "portionUnit": "g" },
+        { "food": "Eidooier", "amount": 1, "unit": "portion", "portionLabel": "Dooier", "portionQty": 18, "portionUnit": "g" },
+        { "food": "Pancetta", "amount": 150, "unit": "g" },
+        { "food": "Pecorino", "amount": 50, "unit": "g" },
+        { "food": "Zwarte peper", "amount": 5, "unit": "g" },
+        { "food": "Parmezaanse kaas", "amount": 50, "unit": "g" }
+      ],
+      "source": "eigen"
+    },
+    {
+      "naam": "Kip-pasta pesto",
+      "servings": 2,
+      "bereidingswijze": "
+1. Snijd de kipfilet in blokjes, bak gaar in olijfolie;
+2. Kook de pasta al dente volgens de aanwijzigingen op de verpakking;
+3. Giet de pasta af en voeg de kipfilet en pesto toe en roer goed door;
+4. Serveer met wat :armezaanse kaas;
+",
+      "ingredients": [
+        { "food": "Penne", "amount": 160, "unit": "g" },
+        { "food": "Kipfilet", "amount": 250, "unit": "g" },
+        { "food": "Pesto", "amount": 4, "unit": "portion", "portionLabel": "el", "portionQty": 15, "portionUnit": "g" },
+        { "food": "Spinazie", "amount": 200, "unit": "g" }
+      ]
+    }
+  ]
+}
