@@ -22,13 +22,34 @@
       "naam": "Kip-pasta pesto",
       "servings": 2,
       "image": "https://raw.githubusercontent.com/jeffreykooken/recepten/refs/heads/main/Kip-pasta_pesto.jpg",
-      "bereidingswijze": "1. Snijd de kipfilet in blokjes en bak gaar in olijfolie.\n2. Kook de pasta al dente volgens de aanwijzingen op de verpakking.\n3. Giet de pasta af en voeg de kipfilet en pesto toe; roer goed door.\n4. Serveer met Parmezaanse kaas.",
+      "bereidingswijze": "1. Snijd de kipfilet in blokjes en bak gaar in olijfolie.\n\n2. Kook de pasta al dente volgens de aanwijzingen op de verpakking.\n\n3. Giet de pasta af en voeg de kipfilet en pesto toe; roer goed door.\n\n4. Serveer met Parmezaanse kaas.",
       "ingredients": [
         { "food": "Witte pasta", "amount": 180, "unit": "g" },
         { "food": "Kipfilet", "amount": 280, "unit": "g" },
         { "food": "Groene pesto", "amount": 4, "unit": "portion", "portionLabel": "Eetlepel", "portionQty": 20, "portionUnit": "g" },
         { "food": "Parmezaanse kaas", "amount": 50, "unit": "g" },
         { "food": "Zwarte peper", "amount": 5, "unit": "g" }
+      ]
+    }
+    {
+      "naam": "Stoofvlees met runderriblappen en bokbier",
+      "servings": 6,
+      "image": "https://raw.githubusercontent.com/jeffreykooken/recepten/refs/heads/main/Kip-pasta_pesto.jpg",
+      "bereidingswijze": "Erg lekkere runderstoof, heerlijk bij verse friet, aardappelpuree of rijst.\n\n\n 1. Pel en snipper de ui\n\n2. Dep de runderriblappen droog met keukenpapier en snijd in blokjes. Bestrooi ze met wat zout en peper.\n\n3. Bak de blokjes kort in de roomboter in een koekenpan op hoog vuur, haal ze vervolgens uit de pan en houd appart. \n\n4. Zet het gasfornuis wat lager en fruit de uitjes in het achtergebleven bakvet. \n\n5. Voeg de tomatenpuree toe om deze te ontzuren. \n\n. 6. Voeg vervolgens het bokbier toe en breng aan de kook. Prik de kruidnagels door de laurierblaadjes en voeg toe samen met het azijn, de peperkoek, stroop en mosterd. Roer het geheel goed door en laat vervolgens 8 uur op laag vuur pruttelen. Je kunt het ook overscheppen naar een slowcooker. \n\n\n Tip: bewaar de overgebleven porties in de vriezer voor een ander moment.",
+      "ingredients": [
+        { "food": "Runderriblappen", "amount": 1200, "unit": "g" },
+        { "food": "Bokbier", "amount": 2, "unit": "portion", "portionLabel": "Flesje (300ml)", "portionQty": 300, "portionUnit": "g" },        
+        { "food": "Ui", "amount": 4, "unit": "portion", "portionLabel": "ui", "portionQty": 90, "portionUnit": "g" },
+        { "food": "Tomatenpuree", "amount": 140, "unit": "g" },
+        { "food": "Ontbijtkoek", "amount": 3, "unit": "portion", "portionLabel": "Plakje", "portionQty": 30, "portionUnit": "g" },
+        { "food": "Mosterd", "amount": 3, "unit": "portion", "portionLabel": "Eetlepel", "portionQty": 6, "portionUnit": "g" },
+        { "food": "Laurierblad", "amount": 1, "unit": "portion", "portionLabel": "Blaadje", "portionQty": 4, "portionUnit": "g" },
+        { "food": "Appelstroop", "amount": 2, "unit": "portion", "portionLabel": "Eetlepel", "portionQty": 22, "portionUnit": "g" },
+        { "food": "Rode wijnazijn", "amount": 3, "unit": "portion", "portionLabel": "Eetlepel", "portionQty": 15, "portionUnit": "g" },
+        { "food": "Roomboter", "amount": 20, "unit": "g" },
+        { "food": "Kruidnagel", "amount": 2, "unit": "g" },
+        { "food": "Zwarte peper", "amount": 5, "unit": "g" },
+        { "food": "Zout", "amount": 5, "unit": "g" }        
       ]
     }
   ]
