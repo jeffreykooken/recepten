@@ -67,5 +67,24 @@
         { "food": "Zout", "amount": 5, "unit": "g" }        
       ]
     },
+
+  {
+      "naam": "Pasta met pistache-pesto",
+      "servings": 4,
+      "image": "https://raw.githubusercontent.com/jeffreykooken/recepten/refs/heads/main/Kip-pasta_pesto.jpg",
+      "bereidingswijze": "1. Pluk de basilicumblaadjes en hak fijn in een hakmolen. \n\n2. Snijd de citroen doormidden. Rasp de schil van een halve citroen en pers het sap van beide helften eruit. \n\n3. Voeg de pistachenoten, de knoflook, olijfolie, citroensap en rasp toe aan de hakmolen. Hak het geheel tot de gewenste structuur. \n\n 3. Rasp de Permezaanse kaas. \\4. Breng (gezouten) water aan de kook, voeg de paste toe en kook al dente (volgens de aanwijzigingen op de verpakking). \\5. Giet de pasta af, meng de pesto er doorheen en verdeel in 4 gelijken porties. Strooi een gelijke hoeveelheid geraspte kaas over de porties en voeg eventueel nog wat pistachenoten toe.  \n\n Tip: In plaats van gedroogde pasta kun je ook verse pasta maken, zie hiervoor recept xxx. De overgebleven porties kun je gemakelijk in de vriezer bewaren voor een later moment.",
+      "ingredients": [
+        { "food": "Witte pasta", "amount": 300, "unit": "g" },  
+        { "food": "Basilicum vers", "amount": 40, "unit": "g" },  
+        { "food": "Pistachenoten", "amount": 80, "unit": "g" },  
+        { "food": "Citroen", "amount": 1, "unit": "portion", "portionLabel": "Citroen", "portionQty": 1, "portionUnit": "g" },
+        { "food": "Olijfolie", "amount": 75, "unit": "g" },  
+        { "food": "Knoflook", "amount": 1, "unit": "portion", "portionLabel": "Teenje", "portionQty": 5, "portionUnit": "g" },
+        { "food": "Zwarte peper", "amount": 5, "unit": "g" },
+        { "food": "Zout", "amount": 5, "unit": "g" }        
+      ]
+    },
+
+    
   ]
 }
