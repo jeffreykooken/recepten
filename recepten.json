@@ -66,5 +66,6 @@
         { "food": "Zwarte peper", "amount": 5, "unit": "g" },
         { "food": "Zout", "amount": 5, "unit": "g" }        
       ]
-    },
+    }
+  ]
 }
