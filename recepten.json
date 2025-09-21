@@ -86,5 +86,18 @@
     },
 
     
+  {
+      "naam": "Verse pasta",
+      "servings": 4,
+      "image": "https://raw.githubusercontent.com/jeffreykooken/recepten/refs/heads/main/Kip-pasta_pesto.jpg",
+      "bereidingswijze": "1. Voeg de bloem, ei en olijfolie samen in een kom. \n\n2. Kneed het geheel in een keukenmachine met deeghaak op lage snelheid tot een soepel deeg. Heb je geen keukenmachine, kneed dan met de hand. \\n 3. Vorm het geheel tot een bol, wikkel hierin vershoudfolie omheen en leg in de koelkast voor minimaal een uur. \n\n 4. Haal het deeg uit de koelkast, snijd in 4 gelijke delen. Rol uit met een deegroller. \n\n5. Haal de platgerolde bollen door de wals van de pastamachine op de grofste stand. Zet vervolgens de rollen dichter bij elkaar en voer het deeg er weer door. Herhaal dit tot de het gewenste resultaat, meestal is dit de fijnste stand van de pastamachine. Je hebt nu lasagnebladeren gemaakt. Wil je spaghetti of fusili?  Haal dan de lasagnebladen door de snijders van de machine. ",
+      "ingredients": [
+        { "food": "Patentbloem", "amount": 400, "unit": "g" },  
+        { "food": "Olijfolie", "amount": 40, "unit": "g" }, 
+        { "food": "Eieren", "amount": 4, "unit": "portion", "portionLabel": "Ei (middel)", "portionQty": 60, "portionUnit": "g" } 
+      ]
+    },
+
+    
   ]
 }
