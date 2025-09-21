@@ -98,6 +98,30 @@
       ]
     },
 
+
+
+   {
+      "naam": "Eiwitrijke pannekoken met blauwe bessen en framboos",
+      "servings": 2,
+      "image": "https://raw.githubusercontent.com/jeffreykooken/recepten/refs/heads/main/Kip-pasta_pesto.jpg",
+      "bereidingswijze": "1. Meng alle ingredienten, behalve de frambozen en bessen door elkaar tot een glad beslag. \n\n2.Verhit wat olijfolie in een hapjespan op middelhoog vuur en bak hierin stuk voor stuk de pannenkoekjes. \n\n3. Serveer de pannenkoekjes met het fruit.",
+      "ingredients": [
+
+        { "food": "Eieren", "amount": 2, "unit": "portion", "portionLabel": "Ei (middel)", "portionQty": 60, "portionUnit": "g" },
+        { "food": "Magere kwark", "amount": 350, "unit": "g" },  
+        { "food": "Tarwemeel volkoren", "amount": 50, "unit": "g" },
+        { "food": "Bakpoeder", "amount": 12, "unit": "g" },
+        { "food": "Proteïne shake vanille", "amount": 30, "unit": "g" },
+        { "food": "Kristalsuiker", "amount": 20, "unit": "g" },
+        { "food": "Vanilleextract", "amount": 10, "unit": "g" },
+        { "food": "Olijfolie", "amount": 40, "unit": "g" }, 
+        { "food": "Frambozen", "amount": 100, "unit": "g" }, 
+        { "food": "Blauwe bessen", "amount": 100, "unit": "g" }, 
+
+
+        
+      ]
+    } 
     
   ]
 }
