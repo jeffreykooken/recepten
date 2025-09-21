@@ -51,14 +51,13 @@
         { "food": "Zwarte peper", "amount": 5, "unit": "g" },
         { "food": "Zout", "amount": 5, "unit": "g" }        
       ]
-    }
-  ],
+    },
+
   {
       "naam": "Pompoensoep",
       "servings": 4,
       "image": "https://raw.githubusercontent.com/jeffreykooken/recepten/refs/heads/main/Kip-pasta_pesto.jpg",
       "bereidingswijze": "1.Was de groente. Pel en snipper de ui, hak de knoflook fijn, Schil te pompoen en snijd in blokjes. \n\n2. Verhit wat olijfolie in de pan en voeg meteen wat zout toe. Fruit hierin de knoflook en ui tot ze glazig zijn. \n\n2. Voeg de pompoenblokjes toe, bak even mee en voeg daarna het water toe. /n/n.3. Breng het geheel aan de kook en laat minimaal 15 minuten zacht doorkoken. /n/n4. Pureer de soep met een staafmixer tot een glad geheel.Voeg vervolgens, na smaak, nog wat zout en cayennepeper toe. Omdat er in dit recept geen boullionblokjes worden gebruikt kan het zijn dat je wat meer zout wil gebruiken dan je gewend bent.",
-
       "ingredients": [
         { "food": "Flespompoen", "amount": 1, "unit": "portion", "portionLabel": "Pompoen", "portionQty": 725, "portionUnit": "g" },        
         { "food": "Ui", "amount": 2, "unit": "portion", "portionLabel": "Ui", "portionQty": 90, "portionUnit": "g" },
@@ -67,5 +66,5 @@
         { "food": "Zwarte peper", "amount": 5, "unit": "g" },
         { "food": "Zout", "amount": 5, "unit": "g" }        
       ]
-    }
+    },
 }
