@@ -5,8 +5,7 @@
       "naam": "Italiaanse pasta carbonara",
       "servings": 4,
       "image": "https://raw.githubusercontent.com/jeffreykooken/recepten/refs/heads/main/Italiaanse_pasta_carbonara.jpg",
-      "bereidingswijze":"Erg lekker en eenvoudig te bereiden traditioneel Italiaans recept. Voor dit recept is het van belang dat we, vanaf het moment dat de pasta van het vuur gaat, snel te werk gaan. Er moet voldoende restwarmte in de pan zitten om het geheel smeuig te krijgen.\n\n\n 1. Rasp de kaze \n\n2. Bak de pancetta kort op hoog vuur.\n\n3. Kook de pasta al dente volgens de aanwijzingen op de verpakking.\n\n4. Klop de eieren en het eigeel los in een kom en voeg de kaas en wat zwarte peper toe.\n\n5. Giet de pasta af en bewaar wat kookvocht.\n\n6. Meng de pancetta met de afgegoten pasta.\n\n7. Zorg dat de pasta niet op het vuur staat, voeg het ei-kaasmengsel toe en roer goed door.\n\n8. Voeg al roerende een klein beetje kookvocht toe zodat het geheel romig wordt.\n\n9. Serveer met wat peper.;",
-      
+      "bereidingswijze": "Erg lekker en eenvoudig te bereiden traditioneel Italiaans recept. Voor dit recept is het van belang dat we, vanaf het moment dat de pasta van het vuur gaat, snel te werk gaan. Er moet voldoende restwarmte in de pan zitten om het geheel smeu\u00efg te krijgen.\n\n1. Rasp de kaas.\n\n2. Bak de pancetta kort op hoog vuur.\n\n3. Kook de pasta al dente volgens de aanwijzingen op de verpakking.\n\n4. Klop de eieren en het eigeel los in een kom en voeg de kaas en wat zwarte peper toe.\n\n5. Giet de pasta af en bewaar wat kookvocht.\n\n6. Meng de pancetta met de afgegoten pasta.\n\n7. Zorg dat de pasta niet op het vuur staat, voeg het ei-kaasmengsel toe en roer goed door.\n\n8. Voeg al roerende een klein beetje kookvocht toe zodat het geheel romig wordt.\n\n9. Serveer met wat peper.",
       "ingredients": [
         { "food": "Witte pasta", "amount": 350, "unit": "g" },
         { "food": "Eieren", "amount": 3, "unit": "portion", "portionLabel": "Ei (middel)", "portionQty": 60, "portionUnit": "g" },
@@ -35,11 +34,11 @@
       "naam": "Stoofvlees met runderriblappen en bokbier",
       "servings": 6,
       "image": "https://raw.githubusercontent.com/jeffreykooken/recepten/refs/heads/main/Stoofvlees_met_runderriblappen_en_bokbier.jpg",
-      "bereidingswijze": "Erg lekkere runderstoof, heerlijk bij verse friet, aardappelpuree of rijst.\n\n\n 1. Pel en snipper de ui\n\n2. Dep de runderriblappen droog met keukenpapier en snijd in blokjes. Bestrooi ze met wat zout en peper.\n\n3. Bak de blokjes kort in de roomboter in een koekenpan op hoog vuur, haal ze vervolgens uit de pan en houd appart. \n\n4. Zet het gasfornuis wat lager en fruit de uitjes in het achtergebleven bakvet. \n\n5. Voeg de tomatenpuree toe om deze te ontzuren. \n\n6. Voeg vervolgens het bokbier toe en breng aan de kook. Prik de kruidnagels door de laurierblaadjes en voeg toe samen met het azijn, de peperkoek, stroop en mosterd. Roer het geheel goed door en laat vervolgens 8 uur op laag vuur pruttelen. Je kunt het ook overscheppen naar een slowcooker. \n7. Haal de laurierblaadjes met kruidnagels uit de stoof en verdeel in 6 gelijke porties. \n\n\n Tip: bewaar de overgebleven porties in de vriezer voor een ander moment.",
+      "bereidingswijze": "Erg lekkere runderstoof, heerlijk bij verse friet, aardappelpuree of rijst.\n\n1. Pel en snipper de ui.\n\n2. Dep de runderriblappen droog met keukenpapier en snijd in blokjes. Bestrooi ze met wat zout en peper.\n\n3. Bak de blokjes kort in de roomboter in een koekenpan op hoog vuur, haal ze vervolgens uit de pan en houd apart.\n\n4. Zet het gasfornuis wat lager en fruit de uitjes in het achtergebleven bakvet.\n\n5. Voeg de tomatenpuree toe om deze te ontzuren.\n\n6. Voeg vervolgens het bokbier toe en breng aan de kook. Prik de kruidnagels door de laurierblaadjes en voeg toe samen met het azijn, de peperkoek, stroop en mosterd. Roer het geheel goed door en laat vervolgens 8 uur op laag vuur pruttelen (of gebruik een slowcooker).\n\n7. Haal de laurierblaadjes met kruidnagels uit de stoof en verdeel in 6 gelijke porties.\n\nTip: bewaar de overgebleven porties in de vriezer voor een ander moment.",
       "ingredients": [
         { "food": "Runderriblappen", "amount": 1200, "unit": "g" },
-        { "food": "Bokbier", "amount": 2, "unit": "portion", "portionLabel": "Flesje (300ml)", "portionQty": 300, "portionUnit": "g" },        
-        { "food": "Ui", "amount": 4, "unit": "portion", "portionLabel": "ui", "portionQty": 90, "portionUnit": "g" },
+        { "food": "Bokbier", "amount": 2, "unit": "portion", "portionLabel": "Flesje (300ml)", "portionQty": 300, "portionUnit": "g" },
+        { "food": "Ui", "amount": 4, "unit": "portion", "portionLabel": "Ui", "portionQty": 90, "portionUnit": "g" },
         { "food": "Tomatenpuree", "amount": 140, "unit": "g" },
         { "food": "Ontbijtkoek", "amount": 3, "unit": "portion", "portionLabel": "Plakje", "portionQty": 30, "portionUnit": "g" },
         { "food": "Mosterd", "amount": 3, "unit": "portion", "portionLabel": "Eetlepel", "portionQty": 6, "portionUnit": "g" },
@@ -49,79 +48,67 @@
         { "food": "Roomboter", "amount": 20, "unit": "g" },
         { "food": "Kruidnagel", "amount": 2, "unit": "g" },
         { "food": "Zwarte peper", "amount": 5, "unit": "g" },
-        { "food": "Zout", "amount": 5, "unit": "g" }        
+        { "food": "Zout", "amount": 5, "unit": "g" }
       ]
     },
-
-  {
+    {
       "naam": "Pompoensoep",
       "servings": 4,
       "image": "https://raw.githubusercontent.com/jeffreykooken/recepten/refs/heads/main/Kip-pasta_pesto.jpg",
-      "bereidingswijze": "1.Was de groente. Pel en snipper de ui, hak de knoflook fijn, Schil te pompoen en snijd in blokjes. \n\n2. Verhit wat olijfolie in de pan en voeg meteen wat zout toe. Fruit hierin de knoflook en ui tot ze glazig zijn. \n\n2. Voeg de pompoenblokjes toe, bak even mee en voeg daarna het water toe. /n/n.3. Breng het geheel aan de kook en laat minimaal 15 minuten zacht doorkoken. /n/n4. Pureer de soep met een staafmixer tot een glad geheel.Voeg vervolgens, na smaak, nog wat zout en cayennepeper toe. Omdat er in dit recept geen boullionblokjes worden gebruikt kan het zijn dat je wat meer zout wil gebruiken dan je gewend bent.",
+      "bereidingswijze": "1. Was de groente. Pel en snipper de ui, hak de knoflook fijn. Schil de pompoen en snijd in blokjes.\n\n2. Verhit wat olijfolie in de pan en voeg meteen wat zout toe. Fruit hierin de knoflook en ui tot ze glazig zijn.\n\n3. Voeg de pompoenblokjes toe, bak even mee en voeg daarna het water toe.\n\n4. Breng het geheel aan de kook en laat minimaal 15 minuten zacht doorkoken.\n\n5. Pureer de soep met een staafmixer tot een glad geheel. Voeg vervolgens, naar smaak, nog wat zout en cayennepeper toe.",
       "ingredients": [
-        { "food": "Flespompoen", "amount": 1, "unit": "portion", "portionLabel": "Pompoen", "portionQty": 725, "portionUnit": "g" },        
+        { "food": "Flespompoen", "amount": 1, "unit": "portion", "portionLabel": "Pompoen", "portionQty": 725, "portionUnit": "g" },
         { "food": "Ui", "amount": 2, "unit": "portion", "portionLabel": "Ui", "portionQty": 90, "portionUnit": "g" },
-        { "food": "Knoflook", "amount": 3, "unit": "portion", "portionLabel": "Teenje", "portionQty": 5, "portionUnit": "g" },
-        { "food": "Olijfolie", "amount": 1, "unit": "portion", "portionLabel": "Eetlepel", "portionQty": 13,8, "portionUnit": "g" },
+        { "food": "Knoflook", "amount": 3, "unit": "portion", "portionLabel": "Teentje", "portionQty": 5, "portionUnit": "g" },
+        { "food": "Olijfolie", "amount": 1, "unit": "portion", "portionLabel": "Eetlepel", "portionQty": 13.8, "portionUnit": "g" },
         { "food": "Zwarte peper", "amount": 5, "unit": "g" },
-        { "food": "Zout", "amount": 5, "unit": "g" }        
+        { "food": "Zout", "amount": 5, "unit": "g" }
       ]
     },
-
-  {
+    {
       "naam": "Pasta met pistache-pesto",
       "servings": 4,
       "image": "https://raw.githubusercontent.com/jeffreykooken/recepten/refs/heads/main/vanille_pannenkoeken.jpg",
-      "bereidingswijze": "1. Pluk de basilicumblaadjes en hak fijn in een hakmolen. \n\n2. Snijd de citroen doormidden. Rasp de schil van een halve citroen en pers het sap van beide helften eruit. \n\n3. Voeg de pistachenoten, de knoflook, olijfolie, citroensap en rasp toe aan de hakmolen. Hak het geheel tot de gewenste structuur. \n\n 3. Rasp de Permezaanse kaas. \\4. Breng (gezouten) water aan de kook, voeg de paste toe en kook al dente (volgens de aanwijzigingen op de verpakking). \\5. Giet de pasta af, meng de pesto er doorheen en verdeel in 4 gelijken porties. Strooi een gelijke hoeveelheid geraspte kaas over de porties en voeg eventueel nog wat pistachenoten toe.  \n\n Tip: In plaats van gedroogde pasta kun je ook verse pasta maken, zie hiervoor recept xxx. De overgebleven porties kun je gemakelijk in de vriezer bewaren voor een later moment.",
+      "bereidingswijze": "1. Pluk de basilicumblaadjes en hak fijn in een hakmolen.\n\n2. Snijd de citroen doormidden. Rasp de schil van een halve citroen en pers het sap van beide helften eruit.\n\n3. Voeg de pistachenoten, de knoflook, olijfolie, citroensap en rasp toe aan de hakmolen. Hak het geheel tot de gewenste structuur.\n\n4. Rasp de Parmezaanse kaas.\n\n5. Breng (gezouten) water aan de kook, voeg de pasta toe en kook al dente (volgens de aanwijzingen op de verpakking).\n\n6. Giet de pasta af, meng de pesto erdoorheen en verdeel in 4 gelijke porties. Strooi geraspte kaas over de porties en voeg eventueel nog wat pistachenoten toe.\n\nTip: In plaats van gedroogde pasta kun je ook verse pasta maken (zie recept 'Verse pasta'). Overgebleven porties kun je gemakkelijk invriezen.",
       "ingredients": [
-        { "food": "Witte pasta", "amount": 300, "unit": "g" },  
-        { "food": "Basilicum vers", "amount": 40, "unit": "g" },  
-        { "food": "Pistachenoten", "amount": 80, "unit": "g" },  
+        { "food": "Witte pasta", "amount": 300, "unit": "g" },
+        { "food": "Basilicum vers", "amount": 40, "unit": "g" },
+        { "food": "Pistachenoten", "amount": 80, "unit": "g" },
         { "food": "Citroen", "amount": 1, "unit": "portion", "portionLabel": "Citroen", "portionQty": 1, "portionUnit": "g" },
-        { "food": "Olijfolie", "amount": 75, "unit": "g" },  
-        { "food": "Knoflook", "amount": 1, "unit": "portion", "portionLabel": "Teenje", "portionQty": 5, "portionUnit": "g" },
+        { "food": "Olijfolie", "amount": 75, "unit": "g" },
+        { "food": "Knoflook", "amount": 1, "unit": "portion", "portionLabel": "Teentje", "portionQty": 5, "portionUnit": "g" },
         { "food": "Zwarte peper", "amount": 5, "unit": "g" },
-        { "food": "Zout", "amount": 5, "unit": "g" }        
+        { "food": "Zout", "amount": 5, "unit": "g" }
       ]
     },
-
-    
-  {
+    {
       "naam": "Verse pasta",
       "servings": 4,
       "image": "https://raw.githubusercontent.com/jeffreykooken/recepten/refs/heads/main/Kip-pasta_pesto.jpg",
-      "bereidingswijze": "1. Voeg de bloem, ei en olijfolie samen in een kom. \n\n2. Kneed het geheel in een keukenmachine met deeghaak op lage snelheid tot een soepel deeg. Heb je geen keukenmachine, kneed dan met de hand. \\n 3. Vorm het geheel tot een bol, wikkel hierin vershoudfolie omheen en leg in de koelkast voor minimaal een uur. \n\n 4. Haal het deeg uit de koelkast, snijd in 4 gelijke delen. Rol uit met een deegroller. \n\n5. Haal de platgerolde bollen door de wals van de pastamachine op de grofste stand. Zet vervolgens de rollen dichter bij elkaar en voer het deeg er weer door. Herhaal dit tot de het gewenste resultaat, meestal is dit de fijnste stand van de pastamachine. Je hebt nu lasagnebladeren gemaakt. Wil je spaghetti of fusili?  Haal dan de lasagnebladen door de snijders van de machine. ",
+      "bereidingswijze": "1. Voeg de bloem, ei en olijfolie samen in een kom.\n\n2. Kneed het geheel in een keukenmachine met deeghaak op lage snelheid tot een soepel deeg (of met de hand).\n\n3. Vorm een bol, wikkel in vershoudfolie en leg minstens 1 uur in de koelkast.\n\n4. Haal het deeg uit de koelkast, snijd in 4 gelijke delen en rol uit met een deegroller.\n\n5. Haal de platte lappen door de wals van de pastamachine (van grof naar fijn) tot de gewenste dikte. Snijd eventueel tot spaghetti of andere vorm.",
       "ingredients": [
-        { "food": "Patentbloem", "amount": 400, "unit": "g" },  
-        { "food": "Olijfolie", "amount": 40, "unit": "g" }, 
-        { "food": "Eieren", "amount": 4, "unit": "portion", "portionLabel": "Ei (middel)", "portionQty": 60, "portionUnit": "g" } 
+        { "food": "Patentbloem", "amount": 400, "unit": "g" },
+        { "food": "Olijfolie", "amount": 40, "unit": "g" },
+        { "food": "Eieren", "amount": 4, "unit": "portion", "portionLabel": "Ei (middel)", "portionQty": 60, "portionUnit": "g" }
       ]
     },
-
-
-
-   {
-      "naam": "Eiwitrijke pannekoken met blauwe bessen en framboos",
+    {
+      "naam": "Eiwitrijke pannenkoeken met blauwe bessen en framboos",
       "servings": 2,
       "image": "https://raw.githubusercontent.com/jeffreykooken/recepten/refs/heads/main/Kip-pasta_pesto.jpg",
-      "bereidingswijze": "1. Meng alle ingredienten, behalve de frambozen en bessen door elkaar tot een glad beslag. \n\n2.Verhit wat olijfolie in een hapjespan op middelhoog vuur en bak hierin stuk voor stuk de pannenkoekjes. \n\n3. Serveer de pannenkoekjes met het fruit.",
+      "bereidingswijze": "1. Meng alle ingrediënten (behalve frambozen en bessen) tot een glad beslag.\n\n2. Verhit wat olijfolie in een hapjespan op middelhoog vuur en bak de pannenkoekjes.\n\n3. Serveer met het fruit.",
       "ingredients": [
-
         { "food": "Eieren", "amount": 2, "unit": "portion", "portionLabel": "Ei (middel)", "portionQty": 60, "portionUnit": "g" },
-        { "food": "Magere kwark", "amount": 350, "unit": "g" },  
+        { "food": "Magere kwark", "amount": 350, "unit": "g" },
         { "food": "Tarwemeel volkoren", "amount": 50, "unit": "g" },
         { "food": "Bakpoeder", "amount": 12, "unit": "g" },
-        { "food": "Proteïne shake vanille", "amount": 30, "unit": "g" },
+        { "food": "Prote\u00efne shake vanille", "amount": 30, "unit": "g" },
         { "food": "Kristalsuiker", "amount": 20, "unit": "g" },
         { "food": "Vanilleextract", "amount": 10, "unit": "g" },
-        { "food": "Olijfolie", "amount": 40, "unit": "g" }, 
-        { "food": "Frambozen", "amount": 100, "unit": "g" }, 
-        { "food": "Blauwe bessen", "amount": 100, "unit": "g" }, 
-
-
-        
+        { "food": "Olijfolie", "amount": 40, "unit": "g" },
+        { "food": "Frambozen", "amount": 100, "unit": "g" },
+        { "food": "Blauwe bessen", "amount": 100, "unit": "g" }
       ]
-    } 
-    
+    }
   ]
 }
