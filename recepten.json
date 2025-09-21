@@ -68,7 +68,7 @@
     {
       "naam": "Pasta met pistache-pesto",
       "servings": 4,
-      "image": "https://raw.githubusercontent.com/jeffreykooken/recepten/refs/heads/main/Kip-pasta_pesto.jpg",
+      "image": "https://raw.githubusercontent.com/jeffreykooken/recepten/refs/heads/main/pasta_pistache_pesto.jpg",
       "bereidingswijze": "1. Pluk de basilicumblaadjes en hak fijn in een hakmolen.\n\n2. Snijd de citroen doormidden. Rasp de schil van een halve citroen en pers het sap van beide helften eruit.\n\n3. Voeg de pistachenoten, de knoflook, olijfolie, citroensap en rasp toe aan de hakmolen. Hak het geheel tot de gewenste structuur.\n\n4. Rasp de Parmezaanse kaas.\n\n5. Breng (gezouten) water aan de kook, voeg de pasta toe en kook al dente (volgens de aanwijzingen op de verpakking).\n\n6. Giet de pasta af, meng de pesto erdoorheen en verdeel in 4 gelijke porties. Strooi geraspte kaas over de porties en voeg eventueel nog wat pistachenoten toe.\n\nTip: In plaats van gedroogde pasta kun je ook verse pasta maken (zie recept 'Verse pasta'). Overgebleven porties kun je gemakkelijk invriezen.",
       "ingredients": [
         { "food": "Witte pasta", "amount": 300, "unit": "g" },
@@ -84,7 +84,7 @@
     {
       "naam": "Verse pasta",
       "servings": 4,
-      "image": "https://raw.githubusercontent.com/jeffreykooken/recepten/refs/heads/main/Kip-pasta_pesto.jpg",
+      "image": "https://raw.githubusercontent.com/jeffreykooken/recepten/refs/heads/main/verse_pasta.jpg",
       "bereidingswijze": "1. Voeg de bloem, ei en olijfolie samen in een kom.\n\n2. Kneed het geheel in een keukenmachine met deeghaak op lage snelheid tot een soepel deeg (of met de hand).\n\n3. Vorm een bol, wikkel in vershoudfolie en leg minstens 1 uur in de koelkast.\n\n4. Haal het deeg uit de koelkast, snijd in 4 gelijke delen en rol uit met een deegroller.\n\n5. Haal de platte lappen door de wals van de pastamachine (van grof naar fijn) tot de gewenste dikte. Snijd eventueel tot spaghetti of andere vorm.",
       "ingredients": [
         { "food": "Patentbloem", "amount": 400, "unit": "g" },
