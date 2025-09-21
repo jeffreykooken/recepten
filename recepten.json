@@ -84,7 +84,7 @@
     {
       "naam": "Verse pasta",
       "servings": 4,
-      "image": "https://raw.githubusercontent.com/jeffreykooken/recepten/refs/heads/main/verse_pasta.jpg",
+      "image": "https://raw.githubusercontent.com/jeffreykooken/recepten/refs/heads/main/verse_pasta_01.jpg",
       "bereidingswijze": "1. Voeg de bloem, ei en olijfolie samen in een kom.\n\n2. Kneed het geheel in een keukenmachine met deeghaak op lage snelheid tot een soepel deeg (of met de hand).\n\n3. Vorm een bol, wikkel in vershoudfolie en leg minstens 1 uur in de koelkast.\n\n4. Haal het deeg uit de koelkast, snijd in 4 gelijke delen en rol uit met een deegroller.\n\n5. Haal de platte lappen door de wals van de pastamachine (van grof naar fijn) tot de gewenste dikte. Snijd eventueel tot spaghetti of andere vorm.",
       "ingredients": [
         { "food": "Patentbloem", "amount": 400, "unit": "g" },
