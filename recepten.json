@@ -89,8 +89,8 @@
       {
       "naam": "Mousaka van zoete aardappel en courgette",
       "servings": 4,
-      "image": "https://raw.githubusercontent.com/jeffreykooken/recepten/refs/heads/main/verse_pasta_01.jpg",
-      "bereidingswijze": "1. Verwarm de oven voor op 200° \n\n2. Pel en snipper de ui, was de courgette en snijdt in stukjes. \n\n3. Verhit de olijfolie in een pan en bak de courgette op middelhoog vuur. Bestrooi met wat zout en peper. ",
+      "image": "https://raw.githubusercontent.com/jeffreykooken/recepten/refs/heads/main/moussaka_van_courgette_en_zoete_aardappel.jpg",
+      "bereidingswijze": "1. Verwarm de oven voor op 200° \n\n2. Pel en snipper de ui, was de courgette en snijdt in stukjes. \n\n3. Verhit de olijfolie in een pan en bak de courgette op middelhoog vuur. Bestrooi met wat zout en peper. \n\n4.Schil de zoete aardappel en snijd in plakjes van 0,5cm dik. Kook deze plakjes in 10 minuten gaar. \n\n5. Verhit nog wat olijfolie in een pan en bak het gehakt rul, voeg vervolgens de ui en knoflook toe en bak even mee op lage temperatuur tot de ui glazig is geworden. \n\n6. Voeg hieraan toe de passate en kaneel, breng aan de kook en laat voor 10 minuten pruttelen zonder deksel. \n\n7. Klop de eiren met de griekse yoghurt tot een glad geheel en voeg wat peper en zout toe. \n\n8. Leg de plakken aardappel op de bodem van een ovenschaal, verdeel hier vervolgens de plakjes courgette overheen. Schep het gehaktmengsel gelijkmatig over de courgette en zoete aardappel. Giet hier als laatste het yoghurt-mengsel overheen. \n\n9. Verkruimel de geitenkaas over de schotel heen en bak het geheel voor 25 minuten in de oven.",
       "ingredients": [
         { "food": "Geitenkaas", "amount": 100, "unit": "g" },
         { "food": "Rundergehakt", "amount": 350, "unit": "g" },
@@ -104,9 +104,7 @@
         { "food": "Knoflook", "amount": 2, "unit": "portion", "portionLabel": "Teentje", "portionQty": 5, "portionUnit": "g" },
         { "food": "Zwarte peper", "amount": 5, "unit": "g" },
         { "food": "Zout", "amount": 5, "unit": "g" },
-        { "food": "Olijfolie", "amount": 40, "unit": "g" }
-
-        
+        { "food": "Olijfolie", "amount": 40, "unit": "g" }    
       ]
     },  
     
