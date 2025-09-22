@@ -31,6 +31,20 @@
         { "food": "Zwarte peper", "amount": 5, "unit": "g" }
       ]
     },
+
+    {
+      "naam": "Kip-pasta pesto",
+      "servings": 2,
+      "image": "https://raw.githubusercontent.com/jeffreykooken/recepten/refs/heads/main/kwark_met_bosbessen_en_aardbeien.jpg",
+      "bereidingswijze": "Erg simpel maar lekker en gezond recept, ideaal als ontbijt. Doe de kwark in een kom, voeg hier de aardbeien en blauwe bessen aan toe.",
+      "ingredients": [
+        { "food": "Magere Kwark", "amount": 130, "unit": "g" },
+        { "food": "Aardbei (middelgroot)", "amount": 5, "unit": "portion", "portionLabel": "Aardbei (middelgroot)", "portionQty": 15, "portionUnit": "g" },
+        { "food": "Bosbessen", "amount": 60, "unit": "g" }
+      ]
+    },
+    
+
     
     {
       "naam": "Stoofvlees met runderriblappen en bokbier",
