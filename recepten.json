@@ -17,6 +17,7 @@
       ],
       "source": "eigen"
     },
+    
     {
       "naam": "Kip-pasta pesto",
       "servings": 2,
@@ -30,6 +31,7 @@
         { "food": "Zwarte peper", "amount": 5, "unit": "g" }
       ]
     },
+    
     {
       "naam": "Stoofvlees met runderriblappen en bokbier",
       "servings": 6,
@@ -51,6 +53,7 @@
         { "food": "Zout", "amount": 5, "unit": "g" }
       ]
     },
+    
     {
       "naam": "Pompoensoep",
       "servings": 4,
@@ -65,6 +68,7 @@
         { "food": "Zout", "amount": 5, "unit": "g" }
       ]
     },
+    
     {
       "naam": "Pasta met pistache-pesto",
       "servings": 4,
@@ -81,6 +85,31 @@
         { "food": "Zout", "amount": 5, "unit": "g" }
       ]
     },
+
+      {
+      "naam": "Mousaka van zoete aardappel en courgette",
+      "servings": 4,
+      "image": "https://raw.githubusercontent.com/jeffreykooken/recepten/refs/heads/main/verse_pasta_01.jpg",
+      "bereidingswijze": "1. Verwarm de oven voor op 200° \n\n2. Pel en snipper de ui, was de courgette en snijdt in stukjes. \n\n3. Verhit de olijfolie in een pan en bak de courgette op middelhoog vuur. Bestrooi met wat zout en peper. ",
+      "ingredients": [
+        { "food": "Geitenkaas", "amount": 100, "unit": "g" },
+        { "food": "Rundergehakt", "amount": 350, "unit": "g" },
+        { "food": "Zoete aardappel", "amount": 600, "unit": "g" },
+        { "food": "Courgette", "amount": 2, "unit": "portion", "portionLabel": "hele courgette", "portionQty": 500, "portionUnit": "g" },
+        { "food": "Eieren", "amount": 4, "unit": "portion", "portionLabel": "Ei (middel)", "portionQty": 60, "portionUnit": "g" },
+        { "food": "Magere Griekse yoghurt", "amount": 300, "unit": "g" },
+        { "food": "Tomaten gezeefd - passata", "amount": 500, "unit": "g" },
+        { "food": "Ui", "amount": 2, "unit": "portion", "portionLabel": "Ui", "portionQty": 90, "portionUnit": "g" },
+        { "food": "Kaneel", "amount": 2, "unit": "portion", "portionLabel": "Theelepel", "portionQty": 1, "portionUnit": "g" },
+        { "food": "Knoflook", "amount": 2, "unit": "portion", "portionLabel": "Teentje", "portionQty": 5, "portionUnit": "g" },
+        { "food": "Zwarte peper", "amount": 5, "unit": "g" },
+        { "food": "Zout", "amount": 5, "unit": "g" },
+        { "food": "Olijfolie", "amount": 40, "unit": "g" }
+
+        
+      ]
+    },  
+    
     {
       "naam": "Verse pasta",
       "servings": 4,
@@ -92,6 +121,7 @@
         { "food": "Eieren", "amount": 4, "unit": "portion", "portionLabel": "Ei (middel)", "portionQty": 60, "portionUnit": "g" }
       ]
     },
+    
     {
       "naam": "Eiwitrijke pannenkoeken met blauwe bessen en framboos",
       "servings": 2,
