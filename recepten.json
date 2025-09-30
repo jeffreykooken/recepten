@@ -100,6 +100,25 @@
       ]
     },
 
+
+        {
+      "naam": "Zoete aardappelsoep",
+      "servings": 8,
+      "image": "https://raw.githubusercontent.com/jeffreykooken/recepten/refs/heads/main/zoete_aardappel_soep.jpg",
+      "bereidingswijze": "1. Pel en snipper de ui, hak de knoflook fijn en snijd de winterpeen in dunne plakjes \n\n2. Schil de zoete aardappelen, maak de paprika schoon en snijd ik blokjes. \n\n3. Doe de olijfolie in de pan en fruit de uitjes en knoflook kort aan op laag vuur. \n\n4. Verhoog de temperatuur,voeg de winterpeen toe en bak even mee. Voeg vervolgens de paprika toe en bak ook even kort mee. \n\n5. Voeg de aardappel toe samen met 1,3l water, breng op smaak met voldoende zout en laat het geheel 15 minuten koken. \n\n 6. Pureer met een staafmixer, raps de zest van de limoen en voeg toe samen met de kokosmelk. Voeg daarna de limoensap toe.\n\n7. Breng indien nodig extra op smaak met zout. ",
+      "ingredients": [
+        { "food": "Zoete aardappel", "amount": 2, "unit": "portion", "portionLabel": "Middelgrote aardappel", "portionQty": 300, "portionUnit": "g" },
+        { "food": "Ui", "amount": 2, "unit": "portion", "portionLabel": "Ui", "portionQty": 90, "portionUnit": "g" },
+        { "food": "Knoflook", "amount": 2, "unit": "portion", "portionLabel": "Teentje", "portionQty": 5, "portionUnit": "g" },
+        { "food": "Rode paprika", "amount": 1, "unit": "portion", "portionLabel": "Paprika", "portionQty": 130, "portionUnit": "g" },
+        { "food": "Winterpeen wortel", "amount": 1, "unit": "portion", "portionLabel": "Wortel", "portionQty": 98, "portionUnit": "g" },
+        { "food": "Limoen", "amount": 1, "unit": "portion", "portionLabel": "Limoen", "portionQty": 60, "portionUnit": "g" },
+        { "food": "Kokosmelk", "amount": 200, "unit": "g" },
+        { "food": "Olijfolie", "amount": 1, "unit": "portion", "portionLabel": "Eetlepel", "portionQty": 13.8, "portionUnit": "g" },
+        { "food": "Zout", "amount": 5, "unit": "g" }
+      ]
+    },
+
       {
       "naam": "Mousaka van zoete aardappel en courgette",
       "servings": 4,
