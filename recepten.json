@@ -36,7 +36,7 @@
     {
       "naam": "Bananenbrood met eiwitpoeder en havermout",
       "servings": 12,
-      "image": "https://raw.githubusercontent.com/jeffreykooken/recepten/refs/heads/main/Kip-pasta_pesto.jpg",
+      "image": "https://raw.githubusercontent.com/jeffreykooken/recepten/refs/heads/main/bananenbrood.jpg",
       "bereidingswijze": "1. Verwarm de oven voor op 200 graden. \n\n2. Doe de havermout, proteinepoeder, bakpoeder, melk, zout en koekkruiden in de blender samen. \n\n3.Snijd de banaan in plakjes en voeg hiervan 250 gram toe. \n\n4. Mix het geheel tot een fijn beslag. \n\n5. Giet het beslag in een cakevorm en roer de notenmix hier doorheen. \n\n6. Leg de overgebleven plakjes banaan op het beslag, hak de chocolade in kleine brokjes en strooi er overheen. \n\n7. Bak het geheel in de oven voor ongeveer 30 minuten. Prik met een prikker in de cake om te controleren of de cake gaar is.",
       "ingredients": [
         { "food": "Havermout", "amount": 150, "unit": "g" },
