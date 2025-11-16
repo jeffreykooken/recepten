@@ -176,7 +176,7 @@
       "naam": "Eiwitrijke pannenkoeken met blauwe bessen en framboos",
       "servings": 2,
       "image": "https://raw.githubusercontent.com/jeffreykooken/recepten/refs/heads/main/vanille_pannenkoeken.jpg",
-      "bereidingswijze": "1. Meng alle ingrediënten (behalve frambozen en bessen) tot een glad beslag.\n\n2. Verhit wat olijfolie in een hapjespan op middelhoog vuur en bak de pannenkoekjes.\n\n3. Serveer met het fruit.",
+      "bereidingswijze": "1. Meng alle ingrediënten (behalve de frambozen, bessen en olie) tot een glad beslag.\n\n2. Verhit de olijfolie in een hapjespan op middelhoog vuur en bak de pannenkoekjes.\n\n3. Serveer met het fruit.",
       "ingredients": [
         { "food": "Eieren", "amount": 2, "unit": "portion", "portionLabel": "Ei (middel)", "portionQty": 60, "portionUnit": "g" },
         { "food": "Magere kwark", "amount": 350, "unit": "g" },
